@@ -25,7 +25,7 @@
  - Web Development with JS, & UI/UX Solutions.
      
 ##  How To Reach Me?
-  - Mail: social@grohit.com (no spams pls)
+  - Mail: c4cgm78nz@relay.firefox.com (no spams pls)
   -  Website: <https://grohit.com>
   -  Instagram: <https://www.instagram.com/uiux.rohit>
   -  LinkedIn: <https://www.linkedin.com/in/g-rohit>
