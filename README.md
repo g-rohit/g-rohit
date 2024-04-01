@@ -13,9 +13,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-rohit)
      
 ##  Currently Working On 
-  1. ReactJS skillset
-  2. [FreeCodeCamp exercises](https://www.freecodecamp.org/grohit)
-  3. Building my own blog from scratch using Gatsby & ReactJS
+  1. NextJs & ReactJS
+  2. Building my own blog from scratch using Go & Hugo [GR-blog:TheCodeMonger](https://blog.grohit.com)
+  3. Revamping personal portfolio using ReactJS, quick preview: [GR vReactJS](https://gr-reactjs.vercel.app)
   
 ##  Aiming to learn in near future 
   - Cybersecurity 
@@ -27,7 +27,7 @@
 ##  How To Reach Me?
   - Mail: c4cgm78nz@relay.firefox.com (no spams pls)
   -  Website: <https://grohit.com>
-  -  Instagram: <https://www.instagram.com/uiux.rohit>
+  -  Instagram: <https://www.instagram.com/developerGrohit>
   -  LinkedIn: <https://www.linkedin.com/in/g-rohit>
   -  Twitter: <https://twitter.com/developerRohit>
 - CodePen: <https://codepen.io/grohit>  
